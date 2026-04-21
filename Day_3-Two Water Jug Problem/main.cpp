@@ -3,6 +3,8 @@
 
 // my solution : 
 #include<bits/stdc++.h>
+
+
 class Solution {
   public:
   // calcultae GCD (or use inbuilt function)
@@ -32,6 +34,7 @@ class Solution {
           }
            return ans;
     }
+
     // main function to call 
     int minSteps(int m, int n, int d) {
         if( d > max( n , m)) return -1;
