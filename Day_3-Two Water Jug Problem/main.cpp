@@ -1,5 +1,7 @@
 // problem : https://www.geeksforgeeks.org/problems/two-water-jug-problem3402/1
 
+
+// my solution : 
 #include<bits/stdc++.h>
 class Solution {
   public:
