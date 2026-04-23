@@ -1,6 +1,7 @@
 // Problem : https://www.geeksforgeeks.org/problems/mean-of-range-in-array2123/1
 
 #include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     vector<int> findMean(vector<int>& arr, vector<vector<int>>& queries) {
