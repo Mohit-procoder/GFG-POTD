@@ -13,3 +13,5 @@ class Solution {
         return dadaji;
     }
 };
+
+// It was easy marked basic question.
