@@ -1,6 +1,8 @@
 // problem : https://www.geeksforgeeks.org/problems/asteroid-collision/1
 #include<bits/stdc++.h>
 using namespace std;
+
+// my solution:
 class Solution {
   public:
     vector<int> reducePairs(vector<int>& arr) {
@@ -20,3 +22,5 @@ class Solution {
         return ans;
     }
 };
+
+// this was a good question to understand usecase of stack
