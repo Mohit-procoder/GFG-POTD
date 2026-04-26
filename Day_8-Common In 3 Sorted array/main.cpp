@@ -1,5 +1,6 @@
 // problem : https://www.geeksforgeeks.org/problems/common-elements1132/1
 
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -17,8 +18,8 @@ class Solution {
             }
             int minn = min(a[i],min(b[j],c[k]));
             if(a[i]==minn)i++;
-            if(b[j]==minn)j++;
-            if(c[k]==minn)k++;
+            else if(b[j]==minn)j++;
+            else if(c[k]==minn)k++;
         }
         return v;
     }
