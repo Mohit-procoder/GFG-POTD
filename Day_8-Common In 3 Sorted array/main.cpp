@@ -24,3 +24,5 @@ class Solution {
         return v;
     }
 };
+
+// Easy question , just to traverse in a mannered way
