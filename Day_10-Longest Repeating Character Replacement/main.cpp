@@ -1,6 +1,6 @@
 // Problem : https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1
 
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 class Solution {
   public:
@@ -20,3 +20,5 @@ class Solution {
         return ans;
     }
 };
+
+// Good question to understand usecase of two pointer in questions
