@@ -19,6 +19,6 @@ class Solution {
         }
         return ans;
     }
-};
+}; 
 
 // Good question to understand usecase of two pointer in questions
