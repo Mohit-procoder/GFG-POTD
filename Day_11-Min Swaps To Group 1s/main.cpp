@@ -16,3 +16,5 @@ public:
         return ans;
     }
 };
+
+// Simply cheaking minimum number of zeros in any window of size equal to number of 1.
