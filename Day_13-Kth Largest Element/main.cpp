@@ -1,6 +1,6 @@
 // problem : https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1
 
-// my solution:
+// my solution :
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -14,8 +14,8 @@ class Solution {
         ans[k-1]=p.top();
         for(int i=k;i<arr.size();i++){
             p.push(arr[i]);
-            p.pop();
-            ans[i]=p.top();
+            p.pop(); 
+            ans[i]=p.top(); // top pe hamesa kth largest hi rahega coz queue ka size alway k hai.
         }
         return ans;
     }
