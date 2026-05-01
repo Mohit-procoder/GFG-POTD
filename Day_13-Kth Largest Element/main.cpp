@@ -1,5 +1,7 @@
 // problem : https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1
 
+// my solution:
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -18,3 +20,4 @@ class Solution {
         return ans;
     }
 };
+// just used heap property. 
