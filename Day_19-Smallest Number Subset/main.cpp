@@ -20,3 +20,6 @@ public:
         return ans;
     }
 };
+
+// An O(log n) solution due to unsorted array 
+// O(1) in space
