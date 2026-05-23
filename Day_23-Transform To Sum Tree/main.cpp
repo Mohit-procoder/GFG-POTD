@@ -28,4 +28,4 @@ class Solution {
     void toSumTree(Node *root) {
         solve(root);
     }
-};
+}; 
