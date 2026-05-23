@@ -22,3 +22,6 @@ class Solution {
         return v[end]!=INT_MAX?v[end]:-1;
     }
 };
+
+// Time complexity : O(n*m), where n is size of array and m is equals to module value , here is 1000.
+// space complexity : O(m), as we used queue which can grow upto value of 1000.
