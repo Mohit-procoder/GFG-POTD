@@ -29,3 +29,5 @@ class Solution {
         solve(root);
     }
 }; 
+
+// real quick simulation of what question says.
