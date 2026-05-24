@@ -19,3 +19,5 @@ public:
         return arr[i];
     }
 };
+
+// simple 2 pointer solution being a easy one.
