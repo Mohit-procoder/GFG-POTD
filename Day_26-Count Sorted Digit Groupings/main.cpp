@@ -41,3 +41,5 @@ public:
         return solve(0, s, 0, dp);
     }
 };
+
+// it was eady dp question , 
