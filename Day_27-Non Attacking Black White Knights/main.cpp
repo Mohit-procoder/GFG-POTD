@@ -27,3 +27,4 @@ class Solution {
 
 // time complexity : O(n*m)
 // space complexity : O(1)
+// solved without backtracking, just sipmle simulations
