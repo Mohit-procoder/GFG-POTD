@@ -16,3 +16,5 @@ class Solution {
         if(dp[w]==INT_MAX)return -1;return dp[w];
     }
 };
+
+// used 1d dp to solve it in O(n*w) time complexity
