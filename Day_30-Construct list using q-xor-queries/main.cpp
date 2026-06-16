@@ -24,3 +24,5 @@ public:
         return ans;
     }
 };
+
+// time complexity : O(q*log(q)) // due to sorting
