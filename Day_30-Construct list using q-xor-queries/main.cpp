@@ -26,3 +26,4 @@ public:
 };
 
 // time complexity : O(q*log(q)) // due to sorting
+// space O(1) auxialry space since not using extra space only ans
