@@ -73,3 +73,4 @@ public:
 // space complexity : O(1)
 
 // used simple maths to solve this question in constant space and time
+// power's last digit repeating itself.
