@@ -18,3 +18,6 @@ class Solution {
         return max_sum;
     }
 };
+
+// time copmlexity : O(n)
+// space complexity : O(1)
