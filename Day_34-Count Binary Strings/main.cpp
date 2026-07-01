@@ -32,3 +32,6 @@ class Solution {
         return (get(0,n-1,k,dp)+get(1,n-1,k,dp))%MOD;
     }
 };
+
+// time complexity : O(n^2)
+// space complexity : O(n*k)
