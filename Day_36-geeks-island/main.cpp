@@ -5,6 +5,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// intution:
+/**
+ * doing dfs for both station p and q and mrking both towers individually then matching for both p and q.
+ */
 class Solution
 {
 public:
@@ -70,3 +74,4 @@ public:
         return ans;
     }
 };
+
