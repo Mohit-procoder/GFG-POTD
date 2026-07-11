@@ -35,3 +35,5 @@ public:
 };
 
 // backtracking easy implementation
+// time : O(4^n*m)
+// space : O(n*m)
