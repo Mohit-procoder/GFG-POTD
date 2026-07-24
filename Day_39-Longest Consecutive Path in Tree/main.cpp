@@ -50,3 +50,5 @@ public:
         return anss == -1 ? -1 : 1 + anss;
     }
 };
+
+// Medium marked easy question
