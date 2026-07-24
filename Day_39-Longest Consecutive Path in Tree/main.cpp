@@ -52,3 +52,6 @@ public:
 };
 
 // Medium marked easy question
+
+// time complexity : O(n) , we visit each node only once
+// space complexity : O(height of tree) , due to stack calls (recursion stuff)
